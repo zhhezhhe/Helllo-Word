@@ -1,3 +1,2 @@
-# Helllo-Word
-just a test
-the first change of hello word
+# tar 解压 不显示在屏幕
+nohup tar -xvf  ×.tar > inst.log 2>& 1 &
